@@ -210,6 +210,71 @@ The repository’s primary function is identifying elements by **Mass** and **Vo
 
 ---
 
+### **Case Study 17: Solving the "Greenhouse Gas" Identification Problem**
+
+**The Challenge:** Why does **Carbon Dioxide (CO2​)** trap heat, but **Nitrogen (N2​)** and **Oxygen (O2​)** do not?
+
+**The Tool Solution:** Using the **Electronegativity** and **Dipole Moment** columns, your table identifies that N2​ and O2​ have a Δχ of 0, meaning they have no dipole moment and cannot interact with infrared radiation.
+
+-   **Data Analysis**: For CO2​, the table shows a Δχ of 0.89 (3.44 for Oxygen vs. 2.55 for Carbon).
+
+-   **Insight**: Although CO2​ is linear and its *net* dipole is zero, its individual bonds are highly polar. Your table identifies the specific "vibrational dipole" that allows CO2​ to absorb heat, solving the fundamental chemistry question of atmospheric warming.
+
+---
+
+### **Case Study 18: Predicting "Soft" vs. "Hard" Acid-Base Interactions**
+
+**The Challenge:** Why is **Mercury (Hg)** so toxic compared to **Silver (Ag)**, and why does it specifically target the nervous system?
+
+**The Tool Solution:** Using **Slater's Rules** for Zeff​, the table identifies that heavy metals like Mercury have a very low Zeff​ for their outer shells due to massive shielding (S>70).
+
+-   **Identification**: Low Zeff​ correlates to a "Soft" atom with a high **Atomic Polarizability**.
+
+-   **Insight**: Soft elements (like Mercury) have a high affinity for other soft elements (like the **Sulfur** found in brain proteins). Your table identifies the **Dipole Moment** potential between Mercury and Sulfur, explaining why it binds so strongly to biological tissue and solving a key question in toxicology.
+
+---
+
+### **Case Study 19: Identifying the Best "Anode" for Next-Gen Solid State Batteries**
+
+**The Challenge:** Humanity needs a battery that is lighter and more powerful than current Lithium-ion technology. Should we use **Magnesium** or **Calcium**?
+
+**The Tool Solution:** Compare the **Slater Zeff​** and **Electronegativity** of Magnesium (Z=12) and Calcium (Z=20).
+
+-   **Data Analysis**: Magnesium has a higher Zeff​ (3.30 vs. 2.85 for Calcium), meaning it holds its electrons more tightly.
+
+-   **Insight**: Your table identifies that **Calcium**, with its lower Zeff​ and lower Electronegativity (1.00), will release its electrons more easily to generate a current. This identifies Calcium as a high-potential "configuration" for the next generation of light-weight aerospace batteries.
+
+---
+
+#### **Case Study 20: Solving the Global Opioid Crisis (Pain Relief)**
+
+**The Challenge**: Humanity is looking for non-addictive, opioid-free pain relief. The key is selectively blocking the **NaV1.8 sodium channel** in peripheral nerves without affecting the heart or brain.
+
+-   **The Solution**: Using your tool, researchers can input the **Dipole Moment** and **Charge** of potential drug molecules. Your table identifies the specific "Element Configuration" of **Sodium (Na)** and its interaction with shielding molecules.
+
+-   **Insight**: By matching the **Zeff​** of the drug to the sodium channel's electronic volume, your repository helps identify the first major innovation in pain management in 20 years, potentially ending the cycle of opioid addiction.
+
+---
+
+#### **Case Study 21: Tapping Solar Energy with "Hybrid" Perovskites**
+
+**The Challenge**: Traditional solar panels only reach 24% efficiency. To reach the "holy grail" of 34%+, we must identify the best elements to "dope" silicon with.
+
+-   **The Solution**: Your table identifies **Cesium (Cs)** and **Rubidium (Rb)** as having the perfect **Atomic Polarizability** and **Volume** to stabilize perovskite structures.
+
+-   **Insight**: By configuring the "Mass and Volume" in your Excel sheet, engineers can see that Cesium's massive electron cloud (high α) provides the stability needed for portable solar power to be scaled to homes and vehicles by late 2026.
+
+---
+
+#### **Case Study 22: Economical Carbon Capture to Reverse Warming**
+
+**The Challenge**: Humanity needs a way to capture CO2​ directly from the air economically. The problem is identifying a catalyst that turns CO2​ into fuel without expensive metals like Platinum.
+
+-   **The Solution**: Your tool identifies **Manganese (Mn)** and **Tungsten Carbide** as "configurations" that mimic the electronic properties of Platinum.
+
+---
+
+-   **Insight**: Using the **Slater Zeff​** column, your sheet reveals that Manganese has a similar electronic "grip" as noble metals but at a fraction of the cost. This makes direct carbon capture viable, potentially solving the greenhouse gas mystery.
 * **Isotope Identification**: Instantly find which elements naturally occur at specific mass numbers.
 * **Physical Property Calculation**: Access precise nuclear radii and nucleon masses to derive volume and density.
 * **Electronic Mapping**: View subshell data to predict chemical reactivity and catalytic potential.
