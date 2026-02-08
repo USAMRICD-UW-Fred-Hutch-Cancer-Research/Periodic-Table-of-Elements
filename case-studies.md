@@ -274,7 +274,27 @@ The repository’s primary function is identifying elements by **Mass** and **Vo
 
 ---
 
--   **Insight**: Using the **Slater Zeff​** column, your sheet reveals that Manganese has a similar electronic "grip" as noble metals but at a fraction of the cost. This makes direct carbon capture viable, potentially solving the greenhouse gas mystery.
+### **Case Study 22: Identifying "Heavy Water" vs. Normal Water**
+
+**The Challenge**: How can we identify a sample of "Heavy Water" (D2​O) using your repository if the atoms look identical to a standard sensor?
+
+-   **Repository Solution**: By inputting the **Mass Number (A=2)** for Deuterium in your `Naturally Occurring Isotopes` sheet, the tool recalculates the **Volume** and **Zeff​**.
+
+-   **Insight**: Because Deuterium has a neutron, its **Nucleon Mass** (Column J) is double that of standard Hydrogen. Your table identifies that while the "Charge" is the same, the **Mass-to-Volume Ratio** is significantly higher, allowing scientists to identify nuclear-grade materials from simple water through physical configuration signatures.
+
+---
+
+#### **Case Study 23: Shielding and the "Super-Sized" Heavy Elements**
+
+**The Challenge**: Why do elements like **Gold (Z=79)** and **Lead (Z=82)** have almost the same volume, even though Lead is much heavier?
+
+-   **The Solution**: Your new **Shielding (S)** and **Zeff​** columns solve this by showing how the 14 electrons in the **4f shell** (Column V) are terrible at shielding the nucleus.
+
+-   **Insight**: This "Lanthanide Contraction" is clearly visible in your sheet: the Zeff​ increases sharply because the shielding constant S doesn't grow fast enough to block the extra protons. This makes your "Identification by Volume" tool highly accurate for heavy metals.
+
+---
+
+
 * **Isotope Identification**: Instantly find which elements naturally occur at specific mass numbers.
 * **Physical Property Calculation**: Access precise nuclear radii and nucleon masses to derive volume and density.
 * **Electronic Mapping**: View subshell data to predict chemical reactivity and catalytic potential.
